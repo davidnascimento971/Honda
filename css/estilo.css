@@ -95,21 +95,32 @@ h3{
     .container{
         max-width: 100%;
         flex-direction: column;
-        text-align: center;
+        
     }
     .botao{
-        max-width: 100%;
+        padding: 12px 85px ;
     }
     .container h1{
         font-size: 30px;
     }
-    #sobre h2{
-        font-size: 30px;
+    .acelere{
+        font-size: 40px;
+        font-weight: 300;
+        text-align: center;
+        color: #202020;
+
     }
+
     p{
         font-size: large;
     }
-    .box h2{
-        text-align: center;
+    .box p{
+        display: block;
+        color: #202020;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 24px;
+        margin: 0px 0px 40px;
+        
     }
 }
