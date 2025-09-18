@@ -40,6 +40,9 @@ body{
 #banner img{
     width: 100%;
 }
+.mobile{
+    display: none;
+}
 
 /* ESTILO RAPIDO */
 #rapido{
@@ -89,6 +92,7 @@ h3{
         
     }
     #banner img{
+        
         width: 100%;
         
     }
@@ -122,5 +126,11 @@ h3{
         line-height: 24px;
         margin: 0px 0px 40px;
         
+    }
+    .desktop{
+        display: none;
+    }
+    .mobile{
+        display: block;
     }
 }
