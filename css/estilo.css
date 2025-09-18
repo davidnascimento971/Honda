@@ -79,3 +79,37 @@ h3{
     text-align: left;
     font-weight: bold;
 }
+
+/* CELULAR ESTILO */
+
+@media screen and (max-width:1024px) {
+    #menu{
+        max-width: 100%;
+        flex-direction: column;
+        
+    }
+    #banner img{
+        width: 100%;
+        
+    }
+    .container{
+        max-width: 100%;
+        flex-direction: column;
+        text-align: center;
+    }
+    .botao{
+        max-width: 100%;
+    }
+    .container h1{
+        font-size: 30px;
+    }
+    #sobre h2{
+        font-size: 30px;
+    }
+    p{
+        font-size: large;
+    }
+    .box h2{
+        text-align: center;
+    }
+}
