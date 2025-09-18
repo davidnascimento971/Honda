@@ -134,4 +134,7 @@ h3{
     .mobile{
         display: block;
     }
+    .box h2{
+        text-align: center;
+    }
 }
