@@ -87,14 +87,10 @@ h3{
 
 @media screen and (max-width:1024px) {
     #menu{
-        max-width: 100%;
-        
-        
+        max-width: 100%;   
     }
-    #banner img{
-        
-        width: 100%;
-        
+    #banner img{   
+        width: 100%;   
     }
     .container{
         max-width: 100%;
@@ -114,7 +110,6 @@ h3{
         color: #202020;
 
     }
-
     p{
         font-size: large;
     }
